@@ -1,10 +1,10 @@
 function Loader() {
   return (
     /* From Uiverse.io by alexruix */ 
-    <div class="loader">
-      <div class="box1"></div>
-      <div class="box2"></div>
-      <div class="box3"></div>
+    <div className="loader">
+      <div className="box1"></div>
+      <div className="box2"></div>
+      <div className="box3"></div>
     </div>
   );
 }
